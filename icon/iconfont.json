@@ -1,0 +1,16 @@
+{
+  "id": "2066498",
+  "name": "tab栏切换",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "627014",
+      "name": "guanbi",
+      "font_class": "guanbi",
+      "unicode": "e6c6",
+      "unicode_decimal": 59078
+    }
+  ]
+}
